@@ -3,5 +3,5 @@
 
 This is the Eagle CAD representation of the 74HC4067 breakout board, which can be bought from Sparkfun, ICStation or even eBay and Aliexpress.
 
-#Joao Branch alteration 
+#Joao Branch alteration </br>
 Changed the size of the Schematic drawing so it could be aesthetically compatible to the rest of the components
